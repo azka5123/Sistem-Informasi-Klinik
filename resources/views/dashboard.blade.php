@@ -19,12 +19,14 @@
     @hasrole('Admin')
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-            <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
-                <div class="p-6 text-gray-900">
-                    <div class="w-1/2 mx-auto">
+            <div class="bg-white overflow-hidden shadow-lg rounded-xl">
+                <div class="p-6 text-gray-900 flex flex-wrap justify-center gap-28  text-center">
+                    <div class="w-96">
+                        <p class="font-bold text-lg text-slate-600">Data User</p>
                         <canvas id="rolesChart"></canvas>
                     </div>
-                    <div class="w-1/2 mx-auto mt-8">
+                    <div class="w-96 pt-24">
+                        <p class="font-bold text-lg text-slate-600">Data Transaksi Seminggu Terakhir</p>
                         <canvas id="transactionsChart"></canvas>
                     </div>
                 </div>
