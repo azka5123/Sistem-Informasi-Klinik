@@ -1,0 +1,540 @@
+[
+    {
+        "name": "Thorax",
+        "category": "Rontgen"
+    },
+    {
+        "name": "fisioteraphy",
+        "category": "fisioteraphy"
+    },
+    {
+        "name": "Buka gips",
+        "category": "Tindakan / Parasat"
+    },
+    {
+        "name": "Photo Abdomen 2 Posisi",
+        "category": "Rontgen"
+    },
+    {
+        "name": "Kultur Darah",
+        "category": "Laboratorium"
+
+
+    },
+    {
+        "name": "Pelvis",
+        "category": "Rontgen"
+
+    },
+    {
+        "name": "Cranium",
+        "category": "Rontgen"
+
+
+    },
+    {
+        "name": "Lumbo Sacral",
+        "category": "Rontgen"
+
+
+    },
+    {
+        "name": "Femur",
+        "category": "Rontgen"
+
+    },
+    {
+        "name": "Cruris",
+        "category": "Rontgen"
+
+    },
+    {
+        "name": "Genu",
+        "category": "Rontgen"
+
+    },
+    {
+        "name": "Ankle / Talocruralis",
+        "category": "Rontgen"
+
+    },
+    {
+        "name": "Cubiti / Siku",
+        "category": "Rontgen"
+    },
+    {
+        "name": "Wrist Joint / Pergelangan tangan",
+        "category": "Rontgen"
+
+    },
+    {
+        "name": "Manus / Tangan",
+        "category": "Rontgen"
+
+    },
+    {
+        "name": "Humerus",
+        "category": "Rontgen"
+
+    },
+    {
+        "name": "Antebrachii",
+        "category": "Rontgen"
+
+    },
+    {
+        "name": "Pedis",
+        "category": "Rontgen"
+
+    },
+    {
+        "name": "Calcaneus",
+        "category": "Rontgen"
+
+    },
+    {
+        "name": "Gleno Humeral / Sendi Bahu / Shoulder",
+        "category": "Rontgen"
+
+    },
+    {
+        "name": "Photo BNO",
+        "category": "Rontgen"
+
+    },
+    {
+        "name": "Clavicula",
+        "category": "Rontgen"
+
+
+    },
+    {
+        "name": "Vertebrae Lumbosacral",
+        "category": "Rontgen"
+
+
+    },
+    {
+        "name": "Appendicogram",
+        "category": "Rontgen"
+
+
+    },
+    {
+        "name": "IVP",
+        "category": "Rontgen"
+
+
+    },
+    {
+        "name": "Tukar Verban Kecil",
+        "category": "Tindakan / Parasat"
+    },
+    {
+        "name": "Tukar Verban Sedang",
+        "category": "Tindakan / Parasat"
+    },
+    {
+        "name": "Tukar Verban Besar",
+        "category": "Tindakan / Parasat"
+    },
+    {
+        "name": "Incisi Abses Kecil",
+        "category": "Tindakan / Parasat"
+
+    },
+    {
+        "name": "Incisi Abses Sedang",
+        "category": "Tindakan / Parasat"
+
+    },
+    {
+        "name": "Incisi Abses Besar",
+        "category": "Tindakan / Parasat"
+
+    },
+    {
+        "name": "Heating < 5 ",
+        " category": "Tindakan / Parasat"
+    },
+    {
+        "name": "Heating 5-10",
+        "category": "Tindakan / Parasat"
+
+
+    },
+    {
+        "name": "Heating > 10",
+        "category": "Tindakan / Parasat"
+
+    },
+    {
+        "name": "Skin Traksi",
+        "category": "Tindakan / Parasat"
+    },
+    {
+        "name": "Pasang Spalak Kecil",
+        "category": "Tindakan / Parasat"
+
+    },
+    {
+        "name": "Pasang Spalak Sedang",
+        "category": "Tindakan / Parasat"
+
+
+    },
+    {
+        "name": "Pasang Spalak Besar",
+        "category": "Tindakan / Parasat"
+
+
+    },
+    {
+        "name": "Pasang NGT",
+        "category": "Tindakan / Parasat"
+    },
+    {
+        "name": "Aff Catheter",
+        "category": "Tindakan / Parasat"
+    },
+    {
+        "name": "Photo Uretro-Cystografi",
+        "category": "Rontgen"
+
+    },
+    {
+        "name": "Photo Cystografi",
+        "category": "Rontgen"
+
+    },
+    {
+        "name": "Sinus Paranasal",
+        "category": "Rontgen"
+
+    },
+    {
+        "name": "Echocardiografi",
+        "category": "Echocardiografi"
+
+
+    },
+    {
+        "name": "Nebulisasi ",
+        "category": "Tindakan / Parasat"
+    },
+    {
+        "name": "Aff Heating Dinding Abdomen",
+        "category": "Tindakan / Parasat"
+    },
+    {
+        "name": "Servical",
+        "category": "Rontgen"
+
+    },
+    {
+        "name": "USG UROLOGI (PRINT)",
+        "category": "USG"
+
+    },
+    {
+        "name": "USG ABDOMEN (PRINT)",
+        "category": "USG"
+
+    },
+    {
+        "name": "Aspirasi",
+        "category": "Tindakan / Parasat"
+
+    },
+    {
+        "name": "Aspirasi Abses / Bulae",
+        "category": "Tindakan / Parasat"
+    },
+    {
+        "name": "Uroflowmetri",
+        "category": "UROFLOWMETRI"
+
+    },
+    {
+        "name": "USG UROLOGI (NON PRINT)",
+        "category": "USG"
+
+    },
+    {
+        "name": "USG ABDOMEN (NON PRINT)",
+        "category": "USG"
+
+    },
+    {
+        "name": "CT SCAN THORAX ",
+        "category": "Rontgen"
+    },
+    {
+        "name": "CT SCAN KEPALA / BRAIN",
+        "category": "CT SCAN"
+    },
+    {
+        "name": "CT SCAN ABDOMEN/UROLOGI",
+        "category": "CT SCAN"
+    },
+    {
+        "name": "MRI THORAX",
+        "category": "MRI"
+    },
+    {
+        "name": "MRI TULANG BELAKANG",
+        "category": "MRI"
+    },
+    {
+        "name": "MRI LOKASI LAIN/ TIDAK SPESIFIK",
+        "category": "MRI"
+    },
+    {
+        "name": "USG THYROID",
+        "category": "USG"
+
+
+    },
+    {
+        "name": "BARIUM ENEMA",
+        "category": "Rontgen"
+
+
+    },
+    {
+        "name": "USG MAMMAE",
+        "category": "USG"
+
+
+    },
+    {
+        "name": "USG TESTIS",
+        "category": "USG"
+
+
+    },
+    {
+        "name": "Aff Heating Punggung",
+        "category": "Tindakan / Parasat"
+    },
+    {
+        "name": "CT SCAN Lain-lain",
+        "category": "CT SCAN"
+
+
+    },
+    {
+        "name": "BAJAH PAYUDARA",
+        "category": "Tindakan / Parasat"
+    },
+    {
+        "name": "AUDIOMETRI",
+        "category": "AUDIOMETRI"
+    },
+    {
+        "name": "BUKA GIBS",
+        "category": "Tindakan / Parasat"
+    },
+    {
+        "name": "Fistulografi Esofagus/ tempat lain",
+        "category": "Rontgen"
+    },
+    {
+        "name": "Fistulografi Dinding Abdomen",
+        "category": "Rontgen"
+    },
+    {
+        "name": "Fistulografi dinding dada",
+        "category": "Rontgen"
+    },
+    {
+        "name": "Fistulografi Retroperitoneum",
+        "category": "Rontgen"
+    },
+    {
+        "name": "MAMMOGRAFI",
+        "category": "Rontgen"
+    },
+    {
+        "name": "Rontgen Panoramik",
+        "category": "Rontgen"
+    },
+    {
+        "name": "Irigasi telinga / Ektraksi Serumen",
+        "category": "Tindakan / Parasat"
+    },
+    {
+        "name": "CAUSTIK/ EKSISI LESI TELINGA TENGAH",
+        "category": "Tindakan / Parasat"
+    },
+    {
+        "name": "REMOVAL NASSAL PACKING/BUKA TAMPON HIDUNG",
+        "category": "Tindakan / Parasat"
+    },
+    {
+        "name": "LARINGOSKOPI",
+        "category": "Tindakan / Parasat"
+
+    },
+    {
+        "name": "EKSTRAKSI BENDA ASING THT",
+        "category": "Tindakan / Parasat"
+
+
+    },
+    {
+        "name": "IRIGASI HIDUNG",
+        "category": "Tindakan / Parasat"
+
+
+    },
+    {
+        "name": "CAUSTIK/ EKSISI LESI TELINGA LUAR",
+        "category": "Tindakan / Parasat"
+    },
+    {
+        "name": "CAUSTIC/EKSISI LESI HIDUNG",
+        "category": "Tindakan / Parasat"
+    },
+    {
+        "name": "CT SCAN NASOFARING ",
+        "category": "CT SCAN"
+
+    },
+    {
+        "name": "BAJAH PAYUDARA",
+        "category": "BAJAH"
+
+
+    },
+    {
+        "name": "BAJAH KELENJAR TIROID",
+        "category": "BAJAH"
+
+
+    },
+    {
+        "name": "BAJAH KELENJAR LYMFE",
+        "category": "BAJAH"
+
+
+    },
+    {
+        "name": "Nasal / Hidung",
+        "category": "Rontgen"
+
+
+    },
+    {
+        "name": "Elbow Joint",
+        "category": "Rontgen"
+
+    },
+    {
+        "name": "Vertebrae Thorakolumbal",
+        "category": "Rontgen"
+
+
+    },
+    {
+        "name": "CABUT K WIRE",
+        "category": "Tindakan / Parasat"
+
+    },
+    {
+        "name": "Rontgen Panoramic",
+        "category": "Rontgen"
+
+
+    },
+    {
+        "name": "Analisa Gas Darah",
+        "category": "Laboratorium"
+
+
+    },
+    {
+        "name": "Malaria Parasitologi",
+        "category": "Laboratorium"
+    },
+    {
+        "name": "Malaria",
+        "category": "Laboratorium"
+
+    },
+    {
+        "name": "Kultur Pus",
+        "category": "Laboratorium"
+
+
+    },
+    {
+        "name": "CT SCAN THORAX",
+        "category": "CT SCAN"
+
+    },
+    {
+        "name": "CT SCAN LEHER",
+        "category": "CT SCAN"
+
+    },
+    {
+        "name": "USG LEHER",
+        "category": "USG"
+
+    },
+    {
+        "name": "IRRIGATION TELINGA",
+        "category": "JASA TINDAKAN"    },
+    {
+        "name": "CT SCAN ANTEBRACHII",
+        "category": "CT SCAN"
+    },
+    {
+        "name": "CT SCAN CRURIS",
+        "category": "CT SCAN"
+    },
+    {
+        "name": "Infra Red Radiasi",
+        "category": "fisioteraphy"
+
+    },
+    {
+        "name": "Latihan Pergerakan Sendi",
+        "category": "fisioteraphy"
+
+    },
+    {
+        "name": "Latihan Bagian Tubuh yang Kaku",
+        "category": "fisioteraphy"
+
+    },
+    {
+        "name": "Latihan Pernafasan",
+        "category": "fisioteraphy"
+
+    },
+    {
+        "name": "Latihan Muskuloskeletal Aktif lainnya",
+        "category": "fisioteraphy"
+
+    },
+    {
+        "name": "Latihan Muskuloskeletal Pasif Lainnya",
+        "category": "fisioteraphy"
+
+    },
+    {
+        "name": "Excercise, Unsp",
+        "category": "fisioteraphy"
+
+    },
+    {
+        "name": "Endoskopi Sinonasal",
+        "category": "Tindakan / Parasat"
+    },
+    {
+        "name": "Endoskopi Telinga / Otoscopy",
+        "category": "Tindakan / Parasat"
+    }
+]
